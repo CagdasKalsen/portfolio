@@ -1,0 +1,27 @@
+.nav-bar {
+    background-color: #181818;
+    width: 140px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    z-index: 3;
+    min-height: 500px;
+}
+
+.logo {
+    display: block;
+    padding: 8px 0;
+    text-decoration: none;
+}
+
+.first,
+.last {
+    font-size: 30px;
+    color: #edaa24;
+    display: block;
+    align-items: center;
+    margin: 5px 5px;
+    padding: 15px;
+    width: 24px;
+    height: auto;
+}
